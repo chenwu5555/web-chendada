@@ -1,0 +1,23 @@
+{
+  "name": "web-chendada",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenwu5555/web-chendada.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenwu5555/web-chendada/issues"
+  },
+  "homepage": "https://github.com/chenwu5555/web-chendada#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
